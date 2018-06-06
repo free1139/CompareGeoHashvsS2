@@ -30,14 +30,10 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            113.942069,
-                            22.509829
-                        ]
-                    ]
+                    113.942069,
+                    22.509829
                 ],
-                "type": "MultiPoint"
+                "type": "Point"
             },
             "properties": {},
             "type": "Feature"
