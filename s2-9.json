@@ -37,7 +37,7 @@
                         ]
                     ]
                 ],
-                "type": "Point"
+                "type": "MultiPoint"
             },
             "properties": {},
             "type": "Feature"
